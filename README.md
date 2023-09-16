@@ -1,6 +1,6 @@
 # README
 **This website is helpful to know more details about Dyson Hair Accessesories**
-Between the <html> and <body> tags, the "<head>" element serves as a container for metadata (info about data)
+*Between the <html> and <body> tags, the "<head>" element serves as a container for metadata (info about data)*
 <body>= of the document is defined by the body> tag.
 "<a>" tag defines a hyperlink
 A navigation "<nav>" bar is basically a list of links, so using the <ul> and <li> elements makes perfect sense
